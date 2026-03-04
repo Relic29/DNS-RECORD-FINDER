@@ -163,5 +163,5 @@ This project is distributed under the MIT License.
 
 ## Author
 
-Bharath Kumar N
-GitHub: https://github.com/BHARATHKUMARN66
+J RELIC OF RHOFL
+GitHub: https://github.com/Relic29
